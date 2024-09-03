@@ -1,2 +1,2 @@
 # GIS_Scripts
-Geospatial data management and automation (GeoPandas, ArcPy, PySpark)
+Geospatial data analytics, management and automation (GeoPandas, ArcPy, PySpark)
